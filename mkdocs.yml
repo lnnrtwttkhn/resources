@@ -10,9 +10,17 @@ nav:
   - Coding: coding.md
   - Documentation: documentation.md
   - Data Managament: data-management.md
+  - Data collection: data-collection.md
+  - Datasets: datasets.md
+  - Education: education.md
+  - Events: events.md
+  - Fun: fun.md
   - Git: git.md
+  - Modeling: modeling.md
   - Open Science: open-science.md
+  - Productivity: productivity.md
   - Reproducible Neuroimgaing: reproducible-neuroimaging.md
+  - Statistics: statistics.md
 markdown_extensions:
     - admonition
     - codehilite:
