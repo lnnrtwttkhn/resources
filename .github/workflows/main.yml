@@ -20,6 +20,4 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Deploy Files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
           mkdocs gh-deploy --force

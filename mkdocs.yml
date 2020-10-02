@@ -7,6 +7,12 @@ docs_dir: docs
 copyright: 'Copyright &copy 2020 Lennart Wittkuhn'
 nav:
   - Home: index.md
+  - Coding: coding.md
+  - Documentation: documentation.md
+  - Data Managament: data-management.md
+  - Git: git.md
+  - Open Science: open-science.md
+  - Reproducible Neuroimgaing: reproducible-neuroimaging.md
 markdown_extensions:
     - admonition
     - codehilite:
@@ -34,7 +40,7 @@ markdown_extensions:
         toc_depth: 3
         anchorlink: false
 theme:
-    name: readthedocs
+    name: material
     language: en
 plugins:
     - search
