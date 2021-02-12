@@ -1,6 +1,7 @@
 # Statistics
 
 - [Statistical Rethinking by Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
+- ["Common statistical tests are linear models (or: how to teach stats)" by Jonas Kristoffer Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 
 ## Time series
 

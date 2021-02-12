@@ -8,3 +8,4 @@ git status --untracked-files
 
 - [Git branching](https://www.atlassian.com/de/git/tutorials/using-branches)
 - ["Keeping a fork up to date"- Gist](https://gist.github.com/CristinaSolana/1885435)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
