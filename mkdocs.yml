@@ -3,8 +3,9 @@ site_author: Lennart Wittkuhn
 repo_url: https://github.com/lnnrtwttkhn/resources
 site_url: https://lnnrtwttkhn.github.io/resources/
 repo_name: lnnrtwttkhn/resources
+edit_uri: edit/master/docs/
 docs_dir: docs
-copyright: 'Copyright &copy 2020 Lennart Wittkuhn'
+copyright: 'Copyright &copy 2021 Lennart Wittkuhn'
 nav:
   - Home: index.md
   - Coding: coding.md
@@ -48,7 +49,7 @@ markdown_extensions:
         toc_depth: 3
         anchorlink: false
 theme:
-    name: material
+    name: readthedocs
     language: en
 plugins:
     - search
