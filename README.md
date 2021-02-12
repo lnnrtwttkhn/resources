@@ -35,4 +35,4 @@ pip install mkdocs-material
 
 ## License
 
-MIT
+[MIT](LICENSE)
