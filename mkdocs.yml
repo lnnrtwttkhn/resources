@@ -49,7 +49,12 @@ markdown_extensions:
         toc_depth: 3
         anchorlink: false
 theme:
-    name: readthedocs
+    name: material
     language: en
 plugins:
     - search
+    - git-revision-date-localized:
+        type: timeago
+        timezone: Europe/Amsterdam
+        locale: en
+        fallback_to_build_date: false
