@@ -10,6 +10,10 @@
 - [UD Repronim](https://github.com/juliagoolia28/UD_repronim)
 - [fMRI preregistration template](https://docs.google.com/document/d/1ohwRNKNO7X2gIgS8qVmlmc0C8XvHvtsXKcP4LWjkrQI/edit#heading=h.u5fvu02msef5)
 - [neurostars.org](https://neurostars.org/)
+- [Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/)
+- [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/2012/02/physics-for-understanding-fmri.html)
+- [Running fMRIPrep on the cluster - Memo Lab](http://www.thememolab.org/resources/2018/02/05/running-bidsapps-on-cluster/)
+- ["Optimal event-related design for MVPA" - Discussion on neurostars.org](https://neurostars.org/t/optimal-event-related-design-for-mvpa/1395)
 
 ## Tools
 
