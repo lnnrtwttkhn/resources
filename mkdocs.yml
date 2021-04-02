@@ -22,6 +22,7 @@ nav:
   - Open Science: open-science.md
   - Productivity: productivity.md
   - Neuroimgaing: neuroimaging.md
+  - Science: science.md
   - Statistics: statistics.md
 markdown_extensions:
     - admonition
