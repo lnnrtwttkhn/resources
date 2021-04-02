@@ -3,6 +3,9 @@
 ## Stimulus material
 
 - [CNBC Stimuli Repository](https://wiki.cnbc.cmu.edu/Objects)
+- [Stimuli from Haxby et al., 2001, *Science*](http://www.pymvpa.org/datadb/haxby2001.html)
+- [List of legal music for videos](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/)
+- [Coin Sound - Audiojungle](https://audiojungle.net/item/coins/26329552)
 
 ## Tutorials
 

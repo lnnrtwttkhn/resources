@@ -4,6 +4,7 @@
 
 ### Talks, workshops and course
 
+- [The DataLad handbook](http://handbook.datalad.org/en/latest/)
 - ["A hands-on introduction to DataLad" - YouTube](https://www.youtube.com/watch?v=_I3JFhJJtW0&feature=emb_logo)
 - ["ReproIn/DataLad: A complete portable and reproducible fMRI study from scratch" - ReproNim course](http://www.repronim.org/ohbm2018-training/03-01-reproin/)
 - [DataLad - Decentralized Management of Digital Objects for Open Science](https://www.youtube.com/watch?v=pIGFS8XDjco)
