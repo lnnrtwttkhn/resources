@@ -33,6 +33,18 @@
 
 - ["Learn RDataTable" by Vikram Singh Rawat](https://bookdown.org/content/2746/)
 
+### `xaringan`
+
+- https://slides.yihui.org/xaringan/
+- https://www.garrickadenbuie.com/blog/highlight-lines-without-breaking-the-code-in-xaringan/
+- https://rlesur.gitlab.io/xaringan-gitlab-pages/slides.pdf
+- https://github.com/yihui/xaringan/wiki/Deploy-Slides-Online
+- https://stackoverflow.com/questions/52016911/highlight-selection-of-code-in-xaringan/52018533
+- https://github.com/gnab/remark/wiki/Configuration#highlighting
+- http://pkg.garrickadenbuie.com/extra-awesome-xaringan/xaringanthemer/index.html#1
+- https://bookdown.org/yihui/rmarkdown/xaringan-preview.html
+- https://github.com/uo-ec607/lectures/blob/master/02-git/02-Git.Rmd
+
 ## Python
 
 - ["Intro to Python for Psychology Undergrads" by Todd Gureckis](https://vimeo.com/510538674)
