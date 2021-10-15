@@ -1,5 +1,12 @@
 # Data Management
 
+## Data organization and standards
+
+### Psych-DS
+- [GoogleDocs with the Psych-DS specification](https://docs.google.com/document/d/1u8o5jnWk0Iqp_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit#)
+- [Psych-DS on GitHub](https://github.com/psych-ds)
+- [Psych-DS website](https://psych-ds.github.io/)
+
 ## DataLad
 
 ### Talks, workshops and course
