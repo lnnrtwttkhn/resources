@@ -15,6 +15,8 @@
 - [practicalfmri.blogspot.com](https://practicalfmri.blogspot.com/2012/02/physics-for-understanding-fmri.html)
 - [Running fMRIPrep on the cluster - Memo Lab](http://www.thememolab.org/resources/2018/02/05/running-bidsapps-on-cluster/)
 - ["Optimal event-related design for MVPA" - Discussion on neurostars.org](https://neurostars.org/t/optimal-event-related-design-for-mvpa/1395)
+- [GoogleDocs Neuroimaging Training Resources](https://docs.google.com/document/d/1rEP71KKgBPPefnB-NpXk1DZYezNdqyEbAZ-rTd0FHio/edit)
+- [Online neuroimaging resources by Remi Gau](https://github.com/Remi-Gau/online_neuroimaging_resources/blob/master/Metalist.md)
 
 ## Tools
 

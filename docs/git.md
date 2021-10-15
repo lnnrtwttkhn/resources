@@ -21,6 +21,7 @@ git status --untracked-files
 - ["A Friendly Github Intro Workshop" by Kirstie Jane](https://kirstiejane.github.io/friendly-github-intro/index.html)
 - ["Data Science for Economists - Lecture 2: Version control with Git(Hub)" by Grant McDermott](https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html#1)
 - ["Happy Git and GitHub for the useR" by Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/)
+- ["Version Control with Git" by The Carpentries](https://carpentries-incubator.github.io/git-novice-branch-pr/)
 
 ## Git Tips & Tricks
 

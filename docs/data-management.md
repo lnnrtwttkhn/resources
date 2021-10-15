@@ -1,5 +1,10 @@
 # Data Management
 
+## Overview
+
+- [Research Data Management by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
+
+
 ## Data organization and standards
 
 ### Psych-DS
@@ -30,3 +35,7 @@
 ```bash
 rsync -PLr source/ dest/
 ```
+
+## Data Sharing
+
+- [Data Repository Guidance by Nature](https://www.nature.com/sdata/policies/repositories)
