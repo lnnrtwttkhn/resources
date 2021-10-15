@@ -1,9 +1,8 @@
-name: Publish docs via GitHub Pages
+name: Publish MkDocs via GitHub Pages
 on:
   push:
     branches:
       - master
-
 jobs:
   build:
     name: Deploy docs

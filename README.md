@@ -1,5 +1,7 @@
 # Resources
 
+![example workflow](https://github.com/lnnrtwttkhn/resources/actions/workflows/main.yml/badge.svg)
+
 ## Overview
 
 Personal list of useful resources.

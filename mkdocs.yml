@@ -6,6 +6,7 @@ repo_name: lnnrtwttkhn/resources
 edit_uri: edit/master/docs/
 docs_dir: docs
 copyright: 'Copyright &copy 2021 Lennart Wittkuhn'
+site_description: "List of useful resources maintained by Lennart Wittkuhn"
 nav:
   - Home: index.md
   - Blogs: blogs.md
@@ -22,7 +23,8 @@ nav:
   - Modeling: modeling.md
   - Open Science: open-science.md
   - Productivity: productivity.md
-  - Reproducible Neuroimgaing: reproducible-neuroimaging.md
+  - Neuroimgaing: neuroimaging.md
+  - Science: science.md
   - Statistics: statistics.md
 markdown_extensions:
     - admonition
@@ -51,7 +53,12 @@ markdown_extensions:
         toc_depth: 3
         anchorlink: false
 theme:
-    name: readthedocs
+    name: material
     language: en
 plugins:
     - search
+    - git-revision-date-localized:
+        type: timeago
+        timezone: Europe/Amsterdam
+        locale: en
+        fallback_to_build_date: false
