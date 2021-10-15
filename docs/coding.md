@@ -20,6 +20,10 @@
 
 - ["Mastering Shiny" by Hadley Wickham](https://mastering-shiny.org/)
 
+### RMarkdown
+
+- https://lisallreiber.github.io/R-Workshop/
+
 ### Bookdown
 
 - [bookdown](https://bookdown.org/yihui/bookdown/)
