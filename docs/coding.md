@@ -12,6 +12,13 @@
 
 ## R
 
+### quarto
+
+- https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/
+- https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/
+- https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/
+- https://yihui.org/en/2022/04/quarto-r-markdown/
+
 ### `ggplot2`
 
 - [ggplot2 workshop part 1 - YouTube workshop by Thomas Lin Pedersen](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be)
