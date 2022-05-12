@@ -17,7 +17,9 @@
 - ["Optimal event-related design for MVPA" - Discussion on neurostars.org](https://neurostars.org/t/optimal-event-related-design-for-mvpa/1395)
 - [GoogleDocs Neuroimaging Training Resources](https://docs.google.com/document/d/1rEP71KKgBPPefnB-NpXk1DZYezNdqyEbAZ-rTd0FHio/edit)
 - [Online neuroimaging resources by Remi Gau](https://github.com/Remi-Gau/online_neuroimaging_resources/blob/master/Metalist.md)
+- [Reproducible Neuroimaging Workshop (ReproNim/DGPA, March 2022)](https://m.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s)
 
 ## Tools
 
 - [Pydeface](https://github.com/poldracklab/pydeface)
+- [CuBIDS](https://cubids.readthedocs.io/en/latest/)
