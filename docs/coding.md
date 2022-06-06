@@ -18,6 +18,7 @@
 - https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/
 - https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/
 - https://yihui.org/en/2022/04/quarto-r-markdown/
+- https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/
 
 ### `ggplot2`
 
