@@ -7,6 +7,13 @@
 
 ## Data organization and standards
 
+### Data organization in spreadsheets
+
+- [„Data Organization in Spreadsheets“ by Karl W. Broman & Kara H. Woo](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+- [Data Organization in Spreadsheets for Ecologists - Formatting problems](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/)
+- [Spreadsheet Horror Stories](http://www.eusprig.org/horror-stories.htm)
+
+
 ### Psych-DS
 - [GoogleDocs with the Psych-DS specification](https://docs.google.com/document/d/1u8o5jnWk0Iqp_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit#)
 - [Psych-DS on GitHub](https://github.com/psych-ds)
