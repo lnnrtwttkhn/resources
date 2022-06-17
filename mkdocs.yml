@@ -11,6 +11,7 @@ nav:
   - Home: index.md
   - Blogs: blogs.md
   - Coding: coding.md
+  - Computational Environments: computational-environments.md
   - Documentation: documentation.md
   - Data Managament: data-management.md
   - Data collection: data-collection.md
