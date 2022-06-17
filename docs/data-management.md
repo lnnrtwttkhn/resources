@@ -3,7 +3,7 @@
 ## Overview
 
 - [Research Data Management by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
-
+- [Slides for a Research Data Management workshop by Sara El-Gabali](https://zenodo.org/record/4562630#.YoJf3ZNBw-Q)
 
 ## Data organization and standards
 
