@@ -1,11 +1,5 @@
 # Git
 
-- [How to show untracked file](https://stackoverflow.com/questions/12682045/git-status-show-files-that-will-be-added-staged-in-subdirectories)
-
-```bash
-git status --untracked-files
-```
-
 - [Git branching](https://www.atlassian.com/de/git/tutorials/using-branches)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -35,3 +29,8 @@ git status --untracked-files
 - ["Keeping a fork up to date"- Gist](https://gist.github.com/CristinaSolana/1885435)
 - ["Renaming a file using the command line" by GitHub Docs](https://docs.github.com/en/github/managing-files-in-a-repository/renaming-a-file-using-the-command-line)
 - ["What should I do about user-specific config files (example: .idea/)?" - Discussion on StackOverflow](https://stackoverflow.com/questions/26851885/what-should-i-do-about-user-specific-config-files-example-idea/26851996#26851996)
+- [How to show untracked file](https://stackoverflow.com/questions/12682045/git-status-show-files-that-will-be-added-staged-in-subdirectories)
+
+```bash
+git status —untracked-files
+```
