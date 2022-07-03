@@ -34,3 +34,8 @@
 ```bash
 git status —untracked-files
 ```
+
+## Analogies of `git add` and `git commit`
+
+> One way to think about this is that `git add` puts things in a box to be shipped, while `git commit` actually sends the package.
+> —- from [„Using Git on your own“ - Chapter 7 of the book „Building software together“ by Greg Wilson](https://buildtogether.tech/git-solo/)
