@@ -22,6 +22,9 @@ git status --untracked-files
 - ["Data Science for Economists - Lecture 2: Version control with Git(Hub)" by Grant McDermott](https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html#1)
 - ["Happy Git and GitHub for the useR" by Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/)
 - ["Version Control with Git" by The Carpentries](https://carpentries-incubator.github.io/git-novice-branch-pr/)
+- [„Become a git guru“ by Atlassian](https://www.atlassian.com/git/tutorials)
+- [GitHub Docs](https://docs.github.com/en)
+- [„Using Git on your own“ - Chapter 7 of the book „Building software together“ by Greg Wilson](https://buildtogether.tech/git-solo/)
 
 ## Git Tips & Tricks
 
