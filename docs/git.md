@@ -39,3 +39,7 @@ git status —untracked-files
 
 > One way to think about this is that `git add` puts things in a box to be shipped, while `git commit` actually sends the package.
 > —- from [„Using Git on your own“ - Chapter 7 of the book „Building software together“ by Greg Wilson](https://buildtogether.tech/git-solo/)
+
+## Other resources
+
+- [„What’s wrong with git?: a conceptual design analysis“](https://dl.acm.org/doi/10.1145/2509578.2509584)
