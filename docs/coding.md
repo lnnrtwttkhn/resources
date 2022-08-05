@@ -19,6 +19,8 @@
 - https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/
 - https://yihui.org/en/2022/04/quarto-r-markdown/
 - https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/
+- [„Learning by doing: migrating to Quarto from Bookdown“](https://www.openscapes.org/blog/2022/07/21/quarto-migrate/)
+- [„Quarto for the curious“ - Talk by Tom Mock at the RStudio::conf(2022)](https://rstudioconf2022.sched.com/event/11iZa/quarto-for-the-curious)
 
 ### `ggplot2`
 
