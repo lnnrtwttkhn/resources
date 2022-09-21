@@ -4,6 +4,7 @@
 
 - [Research Data Management by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
 - [Slides for a Research Data Management workshop by Sara El-Gabali](https://zenodo.org/record/4562630#.YoJf3ZNBw-Q)
+- [„A Curated Collection of Data Management Resources“ by Crystal Lewis](https://cghlewis.com/blog/data_mgmt_resources/)
 
 ## Data organization and standards
 
@@ -46,3 +47,8 @@ rsync -PLr source/ dest/
 ## Data Sharing
 
 - [Data Repository Guidance by Nature](https://www.nature.com/sdata/policies/repositories)
+- [GitHub Action for Dataverse](https://github.com/marketplace/actions/dataverse-uploader-action)
+
+
+
+

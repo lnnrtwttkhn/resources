@@ -2,6 +2,8 @@
 
 - [Git branching](https://www.atlassian.com/de/git/tutorials/using-branches)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [„What are the best git branching strategies“ by Rowan Haddad](https://www.flagship.io/git-branching-strategies/)
+- [„Git around the world“ by Cosima Meyer](https://cosimameyer.com/slides/git-wit/talk.html)
 
 ## Lists of Git resources
 
@@ -19,6 +21,7 @@
 - [„Become a git guru“ by Atlassian](https://www.atlassian.com/git/tutorials)
 - [GitHub Docs](https://docs.github.com/en)
 - [„Using Git on your own“ - Chapter 7 of the book „Building software together“ by Greg Wilson](https://buildtogether.tech/git-solo/)
+- [CodeRefinery Workshop](https://coderefinery.github.io/2022-09-20-workshop/schedule/)
 
 ## Git Tips & Tricks
 
