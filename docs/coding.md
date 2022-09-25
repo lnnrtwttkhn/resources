@@ -1,5 +1,9 @@
 # Coding
 
+## Good Coding
+
+- [„Why code?“ by Lisa DeBruine](https://debruine.github.io/why-code/)
+
 ## Bash
 
 - ["The Missing Semester of Your CS Education" by MIT](https://missing.csail.mit.edu/)
