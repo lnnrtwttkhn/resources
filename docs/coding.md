@@ -26,6 +26,7 @@
 - [„Learning by doing: migrating to Quarto from Bookdown“](https://www.openscapes.org/blog/2022/07/21/quarto-migrate/)
 - [„Quarto for the curious“ - Talk by Tom Mock at the RStudio::conf(2022)](https://rstudioconf2022.sched.com/event/11iZa/quarto-for-the-curious)
 - [„Slidecraft 101: Colors and Fonts“ - Emil Hvitfeldt](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/)
+- [„Customizing Quarto Websites“ by Sam Csik](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide)
 
 ### `ggplot2`
 
