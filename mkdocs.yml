@@ -30,6 +30,7 @@ nav:
   - Neuroimgaing: neuroimaging.md
   - Science: science.md
   - Statistics: statistics.md
+  - Workshops: workshops.md
 markdown_extensions:
     - admonition
     - codehilite:
