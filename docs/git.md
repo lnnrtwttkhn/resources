@@ -8,6 +8,7 @@
 ## Lists of Git resources
 
 - [Git/GitHub links by the MRC Cognition and Brain Sciences Unit at University of Cambridge](http://www.mrc-cbu.cam.ac.uk/openscience/resources/#github)
+- [Oh Shit Git!](https://ohshitgit.com)
 
 ## Git Tutorials
 
