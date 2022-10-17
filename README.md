@@ -14,11 +14,11 @@ Please see the [`requirements.txt`](`requirements.txt`) for a list of the requir
 
 ### Python
 
-- Python 3.8.5
+- Python 3.10.7
 
 ```
 $ python --version
-Python 3.8.5
+Python 3.10.7
 ```
 
 ### Packages
