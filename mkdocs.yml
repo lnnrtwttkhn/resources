@@ -68,3 +68,7 @@ plugins:
         timezone: Europe/Amsterdam
         locale: en
         fallback_to_build_date: false
+extra:
+  analytics:
+    provider: google
+    property: G-X7FYG9528D
