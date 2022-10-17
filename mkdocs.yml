@@ -8,7 +8,6 @@ docs_dir: docs
 copyright: 'Copyright &copy 2021 Lennart Wittkuhn'
 site_description: "List of useful resources maintained by Lennart Wittkuhn"
 nav:
-  - Home: index.md
   - Blogs: blogs.md
   - Coding: coding.md
   - Computational Environments: computational-environments.md
