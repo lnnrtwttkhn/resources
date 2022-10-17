@@ -31,6 +31,7 @@ nav:
   - Science: science.md
   - Statistics: statistics.md
   - Workshops: workshops.md
+  - Writing: writing.md
 markdown_extensions:
     - admonition
     - codehilite:
