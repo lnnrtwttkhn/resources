@@ -4,7 +4,6 @@
 
 - [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)
 
-
 ## Papers
 
 - [An empirical analysis of journal policy effectiveness for computational reproducibility](https://doi.org/10.1073/pnas.1708290115)
@@ -28,6 +27,10 @@ https://www.knowledge-exchange.info/event/publishing-reproducible-research-outpu
 - https://yo-yehudi.com/2020/09/14/on-preparing-your-code-for-publication.html
 -  https://uwescience.github.io/neuroinformatics/2017/11/16/rr-jason.html
 - https://www.the-scientist.com/careers/how-to-fix-science-s-code-problem-70447
+
+## Courses
+
+- ["An R reproducibility toolkit for the practical researcher - Reproducibility course in R" by Elio Campitelli and Paola Corrales](https://eliocamp.github.io/reproducibility-with-r/)
 
 ## Reproducibility in Germany
 
