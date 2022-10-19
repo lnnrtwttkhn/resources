@@ -65,6 +65,10 @@
 - https://bookdown.org/yihui/rmarkdown/xaringan-preview.html
 - https://github.com/uo-ec607/lectures/blob/master/02-git/02-Git.Rmd
 
+### Tidyverse
+
+- [R and the Tidyverse for working with data](https://carpentries-incubator.github.io/r-tidyverse-4-datasets/)
+
 ## Python
 
 - ["Intro to Python for Psychology Undergrads" by Todd Gureckis](https://vimeo.com/510538674)
