@@ -8,7 +8,6 @@ docs_dir: docs
 copyright: 'Copyright &copy 2021 Lennart Wittkuhn'
 site_description: "List of useful resources maintained by Lennart Wittkuhn"
 nav:
-  - Home: index.md
   - Blogs: blogs.md
   - Coding: coding.md
   - Computational Environments: computational-environments.md
@@ -21,6 +20,7 @@ nav:
   - Events: events.md
   - Fun: fun.md
   - Git: git.md
+  - Illustrations: illustrations.md
   - Lab Manuals: lab-manual.md
   - Modeling: modeling.md
   - Open Science: open-science.md
@@ -30,6 +30,8 @@ nav:
   - Neuroimgaing: neuroimaging.md
   - Science: science.md
   - Statistics: statistics.md
+  - Workshops: workshops.md
+  - Writing: writing.md
 markdown_extensions:
     - admonition
     - codehilite:
@@ -66,3 +68,7 @@ plugins:
         timezone: Europe/Amsterdam
         locale: en
         fallback_to_build_date: false
+extra:
+  analytics:
+    provider: google
+    property: G-X7FYG9528D
