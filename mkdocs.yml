@@ -5,8 +5,8 @@ site_url: https://lnnrtwttkhn.github.io/resources/
 repo_name: lnnrtwttkhn/resources
 edit_uri: edit/master/docs/
 docs_dir: docs
-copyright: 'Copyright &copy 2021 Lennart Wittkuhn'
-site_description: "List of useful resources maintained by Lennart Wittkuhn"
+copyright: 'Copyright &copy 2022 Lennart Wittkuhn'
+site_description: "List of resources maintained by Lennart Wittkuhn"
 nav:
   - Blogs: blogs.md
   - Coding: coding.md
