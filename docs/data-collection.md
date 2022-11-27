@@ -1,11 +1,13 @@
 # Data Collection
 
-## Stimulus material
+## Stimulus Materials
 
-- [CNBC Stimuli Repository](https://wiki.cnbc.cmu.edu/Objects)
+for icons see [illustrations](illustrations.md).
+
+- [Tarrlab Stimuli Repository at Carnegie Mellon University](https://sites.google.com/andrew.cmu.edu/tarrlab/stimuli)
 - [Stimuli from Haxby et al., 2001, *Science*](http://www.pymvpa.org/datadb/haxby2001.html)
 - [List of legal music for videos](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/)
-- [Coin Sound - Audiojungle](https://audiojungle.net/item/coins/26329552)
+- [Coin Sound - Audiojungle](https://audiojungle.net/item/coins/26329552) used in [Wittkuhn & Schuck, 2021, *Nature Communications*](https://doi.org/10.1038/s41467-021-21970-2)
 
 ## Tutorials
 
