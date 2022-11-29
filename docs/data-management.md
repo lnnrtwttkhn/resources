@@ -5,6 +5,11 @@
 - [Research Data Management by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
 - [Slides for a Research Data Management workshop by Sara El-Gabali](https://zenodo.org/record/4562630#.YoJf3ZNBw-Q)
 - [„A Curated Collection of Data Management Resources“ by Crystal Lewis](https://cghlewis.com/blog/data_mgmt_resources/)
+- [„Data Management in Large-Scale Education Research“ by Crystal Lewis](https://cghlewis.github.io/mpsi-data-training/index.html)
+
+## Articles
+
+- [„Taking the pain out of data sharing“ by Matthew Hutson](https://doi.org/10.1038/d41586-022-03133-5)
 
 ## Data organization and standards
 
@@ -16,6 +21,7 @@
 
 
 ### Psych-DS
+
 - [GoogleDocs with the Psych-DS specification](https://docs.google.com/document/d/1u8o5jnWk0Iqp_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit#)
 - [Psych-DS on GitHub](https://github.com/psych-ds)
 - [Psych-DS website](https://psych-ds.github.io/)
@@ -49,6 +55,8 @@ rsync -PLr source/ dest/
 - [Data Repository Guidance by Nature](https://www.nature.com/sdata/policies/repositories)
 - [GitHub Action for Dataverse](https://github.com/marketplace/actions/dataverse-uploader-action)
 
+## Research Data Management in Germany
 
+- [SaxFDM Forschungsdatenmanagement in Sachsen](https://zenodo.org/communities/saxfdm/?page=1&size=20)
 
 

@@ -5,16 +5,16 @@ site_url: https://lnnrtwttkhn.github.io/resources/
 repo_name: lnnrtwttkhn/resources
 edit_uri: edit/master/docs/
 docs_dir: docs
-copyright: 'Copyright &copy 2021 Lennart Wittkuhn'
-site_description: "List of useful resources maintained by Lennart Wittkuhn"
+copyright: 'Copyright &copy 2022 Lennart Wittkuhn'
+site_description: "List of resources maintained by Lennart Wittkuhn"
 nav:
   - Blogs: blogs.md
   - Coding: coding.md
   - Computational Environments: computational-environments.md
   - Documentation: documentation.md
   - Data Managament: data-management.md
-  - Data collection: data-collection.md
-  - Data sharing: data-sharing.md
+  - Data Collection: data-collection.md
+  - Data Sharing: data-sharing.md
   - Datasets: datasets.md
   - Education: education.md
   - Events: events.md

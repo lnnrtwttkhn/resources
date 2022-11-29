@@ -11,3 +11,7 @@ through networks and institutions" by Felix Schönbrodt](https://pure.mpg.de/res
 ## Policies
 
 - [Open Science Policy of the University of Zurich](https://www.openscience.uzh.ch/dam/jcr:648379a1-4dcd-4e61-b83d-24af3d759009/UZH_OpenSciencePolicy_d.pdf)
+
+## Articles
+
+- [„Error Tight: Exercises for Lab Groups to Prevent Research Mistakes“ by Julia Strand](https://psyarxiv.com/rsn5y/)
