@@ -27,6 +27,8 @@
 - [„Quarto for the curious“ - Talk by Tom Mock at the RStudio::conf(2022)](https://rstudioconf2022.sched.com/event/11iZa/quarto-for-the-curious)
 - [„Slidecraft 101: Colors and Fonts“ - Emil Hvitfeldt](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/)
 - [„Customizing Quarto Websites“ by Sam Csik](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide)
+- [„RMarkdown/Quarto Tips and Tricks“ by Indrajeet Patil](https://indrajeetpatil.github.io/RmarkdownTips/)
+- [„Getting Started with Quarto“ - workshop by Tom Mock](https://rstudio-conf-2022.github.io/get-started-quarto/)
 
 ### `ggplot2`
 
