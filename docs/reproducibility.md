@@ -25,6 +25,9 @@ https://www.knowledge-exchange.info/event/publishing-reproducible-research-outpu
 
 https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02644-2
 
+
+
+
 ## Posts
 
 - https://yo-yehudi.com/2020/09/14/on-preparing-your-code-for-publication.html
