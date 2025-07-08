@@ -28,6 +28,10 @@
 - [„Slidecraft 101: Colors and Fonts“ - Emil Hvitfeldt](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/)
 - [„Customizing Quarto Websites“ by Sam Csik](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide)
 
+### `data.table`
+
+- ["Why I Chose to Learn `data.table` (and such related things)" by Tyson Barrett](https://tysonbarrett.com//jekyll/update/2019/07/12/datatable/)
+
 ### `ggplot2`
 
 - [ggplot2 workshop part 1 - YouTube workshop by Thomas Lin Pedersen](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be)

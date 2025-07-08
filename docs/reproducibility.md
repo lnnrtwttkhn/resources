@@ -4,6 +4,7 @@
 
 - [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)
 - [„Research Software Engineering with Python - Building software that makes research possible“](https://merely-useful.tech/py-rse/) by Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, and Greg Wilson
+- ["6 Steps Towards Reproducible Research" by Heidi Seibold](https://cloud.heidiseibold.com/s/jCPkxl7i8D8snFR)
 
 ## Papers
 

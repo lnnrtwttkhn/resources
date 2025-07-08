@@ -36,6 +36,7 @@
 - [DataLad - Decentralized Management of Digital Objects for Open Science](https://www.youtube.com/watch?v=pIGFS8XDjco)
 - [Data management workshop using DataLad at the Max Planck Institute for Human Development, Berlin, Germany](https://adswa.github.io/mpi-datamanagement-ws/)
 - ["Follow the rabbits: The 2020 OHBM Brainhack Traintrack Session on DataLad"](https://www.youtube.com/watch?v=L5A0MXqFrOY)
+- [DataLad Tutorial by Benjamin Knopp])(https://gitlab.uni-marburg.de/knoppbe/datalad-tutorial)
 
 ### Configurations
 

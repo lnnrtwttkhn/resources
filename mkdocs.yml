@@ -61,6 +61,10 @@ markdown_extensions:
 theme:
     name: material
     language: en
+    features:
+      - navigation.expand
+    icon:
+      repo: fontawesome/brands/github
 plugins:
     - search
     - git-revision-date-localized:
