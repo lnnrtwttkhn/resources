@@ -1,5 +1,7 @@
 # Git
 
+## Unsorted
+
 - [Git branching](https://www.atlassian.com/de/git/tutorials/using-branches)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [„What are the best git branching strategies“ by Rowan Haddad](https://www.flagship.io/git-branching-strategies/)
@@ -23,6 +25,11 @@
 - [GitHub Docs](https://docs.github.com/en)
 - [„Using Git on your own“ - Chapter 7 of the book „Building software together“ by Greg Wilson](https://buildtogether.tech/git-solo/)
 - [CodeRefinery Workshop](https://coderefinery.github.io/2022-09-20-workshop/schedule/)
+- [](https://milesmcbain.github.io/git_4_sci/)
+
+## Git Workflows
+
+- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 
 ## Git Tips & Tricks
 
@@ -34,6 +41,8 @@
 - ["Renaming a file using the command line" by GitHub Docs](https://docs.github.com/en/github/managing-files-in-a-repository/renaming-a-file-using-the-command-line)
 - ["What should I do about user-specific config files (example: .idea/)?" - Discussion on StackOverflow](https://stackoverflow.com/questions/26851885/what-should-i-do-about-user-specific-config-files-example-idea/26851996#26851996)
 - [How to show untracked file](https://stackoverflow.com/questions/12682045/git-status-show-files-that-will-be-added-staged-in-subdirectories)
+- [Git Cheatsheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ```bash
 git status —untracked-files
@@ -47,3 +56,4 @@ git status —untracked-files
 ## Other resources
 
 - [„What’s wrong with git?: a conceptual design analysis“](https://dl.acm.org/doi/10.1145/2509578.2509584)
+- [„The Perfect Commit“ - Discussion on Hacker News](https://news.ycombinator.com/item?id=33387855)

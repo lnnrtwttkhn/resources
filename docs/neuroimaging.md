@@ -19,6 +19,10 @@
 - [Online neuroimaging resources by Remi Gau](https://github.com/Remi-Gau/online_neuroimaging_resources/blob/master/Metalist.md)
 - [Reproducible Neuroimaging Workshop (ReproNim/DGPA, March 2022)](https://m.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s)
 
+## Papers related to reproducible neuroimaging
+
+https://www.sciencedirect.com/science/article/pii/S1053811922007388?via%3Dihub
+
 ## Tools
 
 - [Pydeface](https://github.com/poldracklab/pydeface)

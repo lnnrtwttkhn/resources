@@ -18,3 +18,4 @@
 - [GLMM FAQ by Ben Bolker](http://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 - [Why include quadratic terms in interactions in lmer?](https://stats.stackexchange.com/questions/269437/why-include-quadratic-terms-in-interactions-in-lmer)
 - ["Plotting partial pooling in mixed-effects models" - Blog post by Tristan Mahr](https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/)
+- [“Simulating Mixed Effects” - Tutorial by Lisa DeBruine](https://debruine.github.io/tutorials/sim-lmer.html)

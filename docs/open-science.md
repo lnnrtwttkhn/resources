@@ -7,6 +7,9 @@
 
 - ["Supporting Open Science practices
 through networks and institutions" by Felix Schönbrodt](https://pure.mpg.de/rest/items/item_3346087_2/component/file_3346088/content)
+- [Materials of the 8th Trifels Summer School on Open Science](https://www.uni-mannheim.de/trifels-summer-school/)
+- [“Five things about open science that every researcher should know” by Dan Quintana](https://osf.io/zy2pc)
+
 
 ## Policies
 
